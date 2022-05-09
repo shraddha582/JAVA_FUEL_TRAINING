@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Fantasygame {
     public static void main(String[] args){
         Scanner ob = new Scanner(System.in);
-        System.out.println("Welcome to Yertle's Quest");
+        System.out.println("Welcome to Yertle's Quest!");
         System.out.println("Enter the name of your character : ");
         String name = ob.next();
         System.out.println("Enter strength (1-10): ");
