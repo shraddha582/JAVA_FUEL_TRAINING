@@ -1,4 +1,4 @@
-/*Exercise 1 — Internet Delicatessen
+/*Exercise 1— Internet Delicatessen
 You have been asked to write a program for the Sam and Ella Delicatessen. The program takes
 daily orders from the Internet. It asks for the item, its price in cents, and if express delivery is
 wanted. The program writes out the order and the charges. Regular delivery for items under $10
