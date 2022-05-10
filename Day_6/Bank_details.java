@@ -1,4 +1,4 @@
-/*Create classes that capture bank customers and bank accounts. A customer has a first and last
+/* Create classes that capture bank customers and bank accounts. A customer has a first and last
 name. An account has a customer and a balance. Make objects for two accounts held by the
 same customer.*/
 
