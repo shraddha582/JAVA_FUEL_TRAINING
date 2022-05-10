@@ -34,7 +34,7 @@ class Student {
 
 }
 
-public class Student1  {
+public class Student1 {
     public static void main(String[] args) {
 
         HashSet<Student> hs = new HashSet<>();
