@@ -3,7 +3,7 @@ import java.util.*;
 public class Demo6 {
     public static void main(String[] args)throws Exception {
         File f;
-        f=new File("C:\\Users\\Dell\\Documents\\hello world.txt");
+        f=new File("C:\\Users\\Dell\\Documents\\data.txt");
         System.out.println(f.exists());
         long x= f.lastModified();
         Date d1=new Date(x);
